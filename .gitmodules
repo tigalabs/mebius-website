@@ -1,0 +1,4 @@
+[submodule "themes/default"]
+	path = themes/default
+	url = https://github.com/tigateam/mebius-theme-default.git
+	branch = main
